@@ -6,12 +6,12 @@
 
 @keyframes slideIn {
     0% {
-      opacity: 0;
-      transform: translateX(100%);
+    opacity: 0;
+    transform: translateX(100%);
     }
     100% {
-      opacity: 1;
-      transform: translateX(0);
+    opacity: 1;
+    transform: translateX(0);
     }
 }
 
@@ -31,7 +31,7 @@ body {
 .conoce {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #222222;
-    font-size: 50px;
+    font-size: 40px;
     margin-top: 10px;
     font-weight: bold;
 }
@@ -39,7 +39,7 @@ body {
 .nuestros {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #337ab7;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: bold;
 }
 
