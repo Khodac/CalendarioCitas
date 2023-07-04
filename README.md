@@ -69,9 +69,6 @@ Ahora que hemos configurado el entorno y importado la base de datos, es hora de 
 
 ## Participantes del proyecto:
 
-- Gladys Guanin.
-- Jose Cabanillas.
-- Alejandro Calquin.
 - Pablo Caballero.
 
 
